@@ -13,3 +13,6 @@ console.timeEnd("funnyNumber");
 
 //o(n) <- Time complexity
 //o(1) <- space complexity
+
+// Above code time complexity of best case scenario is O(1)
+// And in worst case scenario => O(n)
