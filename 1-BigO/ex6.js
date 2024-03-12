@@ -1,4 +1,6 @@
-//Space complexity
+//Space complexity - Amount of memory an algorithm needs to run
+// When input size increases space complexity also increases
+// space complexity is not just the size of the input but also the size of the algorithm
 
 // example 1
 

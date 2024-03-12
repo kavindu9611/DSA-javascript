@@ -11,5 +11,5 @@ function createMatrix(n) {
   return matrix;
 }
 
-const matrix = createMatrix(10);
+const matrix = createMatrix(2);
 console.log(matrix);
