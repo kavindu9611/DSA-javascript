@@ -29,14 +29,15 @@ console.log(arr);
 //arr = [ 'apple', 'orange' ]
 
 //fill
-
 const dummy = [2, 5, 1, 6];
-//dummy.fill(3, 2);
-//[0,0,0,0]
-
-dummy.fill(4, 2);
+dummy.fill(3, 3);
 console.log(dummy);
-//[ 2, 5, 3, 3 ]
+//[ 2, 5, 1, 3 ]
+
+const dummy1 = [2, 5, 1, 6];
+dummy1.fill(0);
+console.log(dummy1);
+//[0, 0, 0, 0];
 
 //flat
 
