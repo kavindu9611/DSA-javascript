@@ -63,7 +63,7 @@ console.log(res);
 //every
 
 //check for every single element
-//if every single element is more than 3
+//if every single element is less than 10
 //then it will return true
 
 const res1 = numbers.every((item, index, array) => {
