@@ -30,9 +30,9 @@ console.log(arr);
 
 //fill
 const dummy = [2, 5, 1, 6];
-dummy.fill(3, 3);
+dummy.fill(8, 1);
 console.log(dummy);
-//[ 2, 5, 1, 3 ]
+//[2, 8, 8, 8];
 
 const dummy1 = [2, 5, 1, 6];
 dummy1.fill(0);
