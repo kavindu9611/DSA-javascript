@@ -13,6 +13,6 @@ console.log(res);
 
 //121 => "121" => ["1","2","1"] =>  ["1","2","1"] => "121"
 
-//x ------->>> convert string into number if string has number
+//+x ------->>> convert string into number if string has number
 //console.log(+"b")----------> Output: NaN
 //console.log(+"11")----------> Output:11
