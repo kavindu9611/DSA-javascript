@@ -26,3 +26,7 @@ console.log(selectionSort([29, 10, 14, 37, 14]));
 
 // Time Complexity = O(n^2)
 // Space Complexity = O(1)
+
+//Selection sort is a simple comparison-based sorting algorithm.
+//It works by repeatedly selecting the smallest (or largest, depending on the desired order)
+// element from the unsorted portion of the array and swapping it with the first unsorted element.
