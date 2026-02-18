@@ -43,6 +43,7 @@ console.log(num2);
 
 //reduce
 
+//2 --> initial value
 const sum = numbers.reduce((prev, item, index, array) => {
   return prev + item;
 }, 2);
@@ -86,3 +87,4 @@ console.log(res2);
 //findIndex
 const index = nums.findIndex((item) => item === 2);
 console.log(index);
+//1

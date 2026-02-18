@@ -15,5 +15,6 @@ function sum(...numbers) {
 }
 
 console.log(sum(nums, nums2, 5, "hello"));
+//[[1,2,3],[4,5,6,7],5,"hello"]
 
 //the spread operator is used to spread elements of an array, while the rest operator is used to gather elements into an array.
